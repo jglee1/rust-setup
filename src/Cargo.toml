@@ -1,0 +1,8 @@
+[package]
+name = "rust-setup"
+version = "0.1.0"
+edition = "2021"
+author = "JG"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
