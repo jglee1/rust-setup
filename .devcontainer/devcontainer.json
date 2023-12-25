@@ -10,7 +10,10 @@
 				"rust-lang.rust-analyzer",
 				"vadimcn.vscode-lldb",
 				"GitHub.copilot"
-			]
+			],
+			"settings": {
+				"rust-analyzer.cargo.autoreload": true
+			}
 		}
 	}
 
